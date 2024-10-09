@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <fstream>gig>
-
+#include <fstream>
+#include <string>
 
 using namespace std;
     struct  team {
@@ -27,7 +27,7 @@ vector<team> readTeamsFromCSV(const string& filename) {
     }
 
     string line, name, localTown, stadium;
-    getline(file, line); // Skip header
+    getline(file, line);
 
     while (getline(file, line)) {
         size_t pos1 = line.find(',');
@@ -45,8 +45,8 @@ vector<team> readTeamsFromCSV(const string& filename) {
 }
 vector<Match> generateFixtures(vector<team>& teams) {
     vector<Match> fixtures; // Holds the generated fixtures
-    int numTeams =teams.size(); // Total number of teams
-    int weekendCounter = 1;      // Start from weekend #1
+    int numTeams =teams.size();
+    int weekendCounter = 1;
 
     for (int i = 0; i < numTeams; ++i) {
         for (int j = i + 1; j < numTeams; ++j) {
@@ -79,7 +79,7 @@ void saveFixturesToCSV(const string& filename, const vector<Match>& fixtures) {
     file.close();
 }
 int main() {
-    string filename = "teams.csv";  // Path to the CSV file
+    string filename = "../teams.csv";
     vector<team> teams = readTeamsFromCSV(filename);  // Read teams from the CSV file
 
     if (teams.empty()) {
@@ -97,7 +97,7 @@ int main() {
              << " (" << fixture.localtown << "), Leg: " << fixture.leg << "\n";
     }
 
-    // Save fixtures to CSV file
+
     saveFixturesToCSV("fixtures.csv", fixtures);
 
     return 0;

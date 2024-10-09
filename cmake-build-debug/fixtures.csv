@@ -1,0 +1,91 @@
+Home Team,Away Team,Stadium,Local Town,Leg,Weekend
+Cklein Starts,Wolves FC	,	Nairobi	,Cklein Arena,1,1
+Wolves FC	,Cklein Starts,Nairobi	,Wolves,2,10
+Cklein Starts,Dolphins FC	,	Nairobi	,Cklein Arena,1,2
+Dolphins FC	,Cklein Starts,Mombasa,	Dolphins,2,11
+Cklein Starts,Sea Horses FC,	Nairobi	,Cklein Arena,1,3
+Sea Horses FC,Cklein Starts,	Mombasa,	SHorses Arena,2,12
+Cklein Starts,Sharks United,	Nairobi	,Cklein Arena,1,4
+Sharks United,Cklein Starts,	Kisumu,	Sharks Field,2,13
+Cklein Starts,Lake Basin FC,	Nairobi	,Cklein Arena,1,5
+Lake Basin FC,Cklein Starts,	Kisumu,	LBasin,2,14
+Cklein Starts,Thika United,	Nairobi	,Cklein Arena,1,6
+Thika United,Cklein Starts,	Thika	,Thika Field,2,15
+Cklein Starts,Mavuno Comrades FC,	Nairobi	,Cklein Arena,1,7
+Mavuno Comrades FC,Cklein Starts,	Thika,	Vuno Grounds,2,16
+Cklein Starts,Nakuru FC,	Nairobi	,Cklein Arena,1,8
+Nakuru FC,Cklein Starts,	Nakuru,	Nakuru Field,2,17
+Cklein Starts,Ostrich Associates,	Nairobi	,Cklein Arena,1,9
+Ostrich Associates,Cklein Starts,	Nakuru,	OAssociates,2,18
+Wolves FC	,Dolphins FC	,Nairobi	,Wolves,1,10
+Dolphins FC	,Wolves FC	,Mombasa,	Dolphins,2,19
+Wolves FC	,Sea Horses FC,Nairobi	,Wolves,1,11
+Sea Horses FC,Wolves FC	,	Mombasa,	SHorses Arena,2,20
+Wolves FC	,Sharks United,Nairobi	,Wolves,1,12
+Sharks United,Wolves FC	,	Kisumu,	Sharks Field,2,21
+Wolves FC	,Lake Basin FC,Nairobi	,Wolves,1,13
+Lake Basin FC,Wolves FC	,	Kisumu,	LBasin,2,22
+Wolves FC	,Thika United,Nairobi	,Wolves,1,14
+Thika United,Wolves FC	,	Thika	,Thika Field,2,23
+Wolves FC	,Mavuno Comrades FC,Nairobi	,Wolves,1,15
+Mavuno Comrades FC,Wolves FC	,	Thika,	Vuno Grounds,2,24
+Wolves FC	,Nakuru FC,Nairobi	,Wolves,1,16
+Nakuru FC,Wolves FC	,	Nakuru,	Nakuru Field,2,25
+Wolves FC	,Ostrich Associates,Nairobi	,Wolves,1,17
+Ostrich Associates,Wolves FC	,	Nakuru,	OAssociates,2,26
+Dolphins FC	,Sea Horses FC,Mombasa,	Dolphins,1,18
+Sea Horses FC,Dolphins FC	,	Mombasa,	SHorses Arena,2,27
+Dolphins FC	,Sharks United,Mombasa,	Dolphins,1,19
+Sharks United,Dolphins FC	,	Kisumu,	Sharks Field,2,28
+Dolphins FC	,Lake Basin FC,Mombasa,	Dolphins,1,20
+Lake Basin FC,Dolphins FC	,	Kisumu,	LBasin,2,29
+Dolphins FC	,Thika United,Mombasa,	Dolphins,1,21
+Thika United,Dolphins FC	,	Thika	,Thika Field,2,30
+Dolphins FC	,Mavuno Comrades FC,Mombasa,	Dolphins,1,22
+Mavuno Comrades FC,Dolphins FC	,	Thika,	Vuno Grounds,2,31
+Dolphins FC	,Nakuru FC,Mombasa,	Dolphins,1,23
+Nakuru FC,Dolphins FC	,	Nakuru,	Nakuru Field,2,32
+Dolphins FC	,Ostrich Associates,Mombasa,	Dolphins,1,24
+Ostrich Associates,Dolphins FC	,	Nakuru,	OAssociates,2,33
+Sea Horses FC,Sharks United,	Mombasa,	SHorses Arena,1,25
+Sharks United,Sea Horses FC,	Kisumu,	Sharks Field,2,34
+Sea Horses FC,Lake Basin FC,	Mombasa,	SHorses Arena,1,26
+Lake Basin FC,Sea Horses FC,	Kisumu,	LBasin,2,35
+Sea Horses FC,Thika United,	Mombasa,	SHorses Arena,1,27
+Thika United,Sea Horses FC,	Thika	,Thika Field,2,36
+Sea Horses FC,Mavuno Comrades FC,	Mombasa,	SHorses Arena,1,28
+Mavuno Comrades FC,Sea Horses FC,	Thika,	Vuno Grounds,2,37
+Sea Horses FC,Nakuru FC,	Mombasa,	SHorses Arena,1,29
+Nakuru FC,Sea Horses FC,	Nakuru,	Nakuru Field,2,38
+Sea Horses FC,Ostrich Associates,	Mombasa,	SHorses Arena,1,30
+Ostrich Associates,Sea Horses FC,	Nakuru,	OAssociates,2,39
+Sharks United,Lake Basin FC,	Kisumu,	Sharks Field,1,31
+Lake Basin FC,Sharks United,	Kisumu,	LBasin,2,40
+Sharks United,Thika United,	Kisumu,	Sharks Field,1,32
+Thika United,Sharks United,	Thika	,Thika Field,2,41
+Sharks United,Mavuno Comrades FC,	Kisumu,	Sharks Field,1,33
+Mavuno Comrades FC,Sharks United,	Thika,	Vuno Grounds,2,42
+Sharks United,Nakuru FC,	Kisumu,	Sharks Field,1,34
+Nakuru FC,Sharks United,	Nakuru,	Nakuru Field,2,43
+Sharks United,Ostrich Associates,	Kisumu,	Sharks Field,1,35
+Ostrich Associates,Sharks United,	Nakuru,	OAssociates,2,44
+Lake Basin FC,Thika United,	Kisumu,	LBasin,1,36
+Thika United,Lake Basin FC,	Thika	,Thika Field,2,45
+Lake Basin FC,Mavuno Comrades FC,	Kisumu,	LBasin,1,37
+Mavuno Comrades FC,Lake Basin FC,	Thika,	Vuno Grounds,2,46
+Lake Basin FC,Nakuru FC,	Kisumu,	LBasin,1,38
+Nakuru FC,Lake Basin FC,	Nakuru,	Nakuru Field,2,47
+Lake Basin FC,Ostrich Associates,	Kisumu,	LBasin,1,39
+Ostrich Associates,Lake Basin FC,	Nakuru,	OAssociates,2,48
+Thika United,Mavuno Comrades FC,	Thika	,Thika Field,1,40
+Mavuno Comrades FC,Thika United,	Thika,	Vuno Grounds,2,49
+Thika United,Nakuru FC,	Thika	,Thika Field,1,41
+Nakuru FC,Thika United,	Nakuru,	Nakuru Field,2,50
+Thika United,Ostrich Associates,	Thika	,Thika Field,1,42
+Ostrich Associates,Thika United,	Nakuru,	OAssociates,2,51
+Mavuno Comrades FC,Nakuru FC,	Thika,	Vuno Grounds,1,43
+Nakuru FC,Mavuno Comrades FC,	Nakuru,	Nakuru Field,2,52
+Mavuno Comrades FC,Ostrich Associates,	Thika,	Vuno Grounds,1,44
+Ostrich Associates,Mavuno Comrades FC,	Nakuru,	OAssociates,2,53
+Nakuru FC,Ostrich Associates,	Nakuru,	Nakuru Field,1,45
+Ostrich Associates,Nakuru FC,	Nakuru,	OAssociates,2,54
